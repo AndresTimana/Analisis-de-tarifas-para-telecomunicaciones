@@ -45,8 +45,8 @@ Descubrir:
   - **Ultimate:** $72.31 (estable)
 
 - **Conclusión estadística**:
-  - ✔️ Se confirmó que los ingresos entre los dos planes **son significativamente diferentes**.
-  - ✔️ También se encontró una diferencia significativa entre los ingresos de usuarios en **Nueva York / Nueva Jersey** y los del resto del país.
+  ✔️ Se confirmó que los ingresos entre los dos planes **son significativamente diferentes**.
+  ✔️ También se encontró una diferencia significativa entre los ingresos de usuarios en **Nueva York / Nueva Jersey** y los del resto del país.
 
 - Muchos usuarios del plan Surf sobrepasan los límites incluidos, lo cual genera cargos adicionales. Esto les hace pagar más sin saberlo, incluso más que el plan Ultimate.
 
